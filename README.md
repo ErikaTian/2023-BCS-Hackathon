@@ -1,4 +1,9 @@
 # 2023-BCS-Hackathon
+Task division:
+Front-end: Iris and Erika (paired-programming)
+Back-end: Kai
+Server: Nari and Oliver
+
 
 This project is build with [Vite](https://vitejs.dev/guide/) that aims to provide faster and leaner development experience for modern web projects.
 
